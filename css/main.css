@@ -374,6 +374,7 @@ h3 {
   background: #95b5d6;
   padding: 46px 0 460px;
   position: relative;
+  width: 100%;
   overflow: hidden; }
   .advice h2 + p {
     font-size: 14px;
